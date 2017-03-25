@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a863026bacd9df7068a465128c9c5777",
+    "content-hash": "3d221737d1f144a2ae4b4cb75630aa17",
     "packages": [
         {
             "name": "bower-asset/jquery",
@@ -120,40 +120,19 @@
         },
         {
             "name": "bower-asset/swagger-ui",
-            "version": "v2.2.10",
+            "version": "v3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swagger-api/swagger-ui.git",
-                "reference": "64dc3060b3700b12e466f8d67b7d7ec3574b015f"
+                "reference": "a3563b614a6b9cf280cbc3d87d7585113b7026da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swagger-api/swagger-ui/zipball/64dc3060b3700b12e466f8d67b7d7ec3574b015f",
-                "reference": "64dc3060b3700b12e466f8d67b7d7ec3574b015f",
+                "url": "https://api.github.com/repos/swagger-api/swagger-ui/zipball/a3563b614a6b9cf280cbc3d87d7585113b7026da",
+                "reference": "a3563b614a6b9cf280cbc3d87d7585113b7026da",
                 "shasum": ""
             },
-            "type": "bower-asset-library",
-            "extra": {
-                "bower-asset-main": "dist/index.html",
-                "bower-asset-ignore": [
-                    "**/.*",
-                    "node_modules",
-                    "bower_components",
-                    "test",
-                    "tests"
-                ],
-                "bower-asset-private": true
-            },
-            "license": [
-                "Apache-2.0",
-                "Copyright 2016 SmartBear Software",
-                "./LICENSE"
-            ],
-            "description": "Swagger UI",
-            "keywords": [
-                "API",
-                "Swagger"
-            ]
+            "type": "bower-asset-library"
         },
         {
             "name": "bower-asset/yii2-pjax",
