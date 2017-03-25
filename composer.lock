@@ -199,7 +199,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/cebe/markdown/8287ddea024caa2a79f59077b3db50d4ff0c65ad.zip",
+                "url": "https://api.github.com/repos/cebe/markdown/zipball/8287ddea024caa2a79f59077b3db50d4ff0c65ad",
                 "reference": "8287ddea024caa2a79f59077b3db50d4ff0c65ad",
                 "shasum": ""
             },
@@ -255,12 +255,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/annotations.git",
-                "reference": "d116e276bc676c7048e3d6b65daa5e713b4f16e6"
+                "reference": "54cacc9b81758b14e3ce750f205a393d52339e97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/doctrine/annotations/d116e276bc676c7048e3d6b65daa5e713b4f16e6.zip",
-                "reference": "d116e276bc676c7048e3d6b65daa5e713b4f16e6",
+                "url": "https://api.github.com/repos/doctrine/annotations/zipball/54cacc9b81758b14e3ce750f205a393d52339e97",
+                "reference": "54cacc9b81758b14e3ce750f205a393d52339e97",
                 "shasum": ""
             },
             "require": {
@@ -315,7 +315,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2017-02-10 00:02:43"
+            "time": "2017-02-24 16:22:25"
         },
         {
             "name": "doctrine/lexer",
@@ -327,7 +327,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/doctrine/lexer/83893c552fd2045dd78aef794c31e694c37c0b8c.zip",
+                "url": "https://api.github.com/repos/doctrine/lexer/zipball/83893c552fd2045dd78aef794c31e694c37c0b8c",
                 "reference": "83893c552fd2045dd78aef794c31e694c37c0b8c",
                 "shasum": ""
             },
@@ -373,20 +373,23 @@
         },
         {
             "name": "ezyang/htmlpurifier",
-            "version": "v4.8.0",
+            "version": "v4.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezyang/htmlpurifier.git",
-                "reference": "d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2"
+                "reference": "6d50e5282afdfdfc3e0ff6d192aff56c5629b3d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/ezyang/htmlpurifier/d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2.zip",
-                "reference": "d0c392f77d2f2a3dcf7fcb79e2a1e2b8804e75b2",
+                "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/6d50e5282afdfdfc3e0ff6d192aff56c5629b3d4",
+                "reference": "6d50e5282afdfdfc3e0ff6d192aff56c5629b3d4",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.2"
+            },
+            "require-dev": {
+                "simpletest/simpletest": "^1.1"
             },
             "type": "library",
             "autoload": {
@@ -413,7 +416,7 @@
             "keywords": [
                 "html"
             ],
-            "time": "2016-07-16T12:58:58+00:00"
+            "time": "2017-03-13T06:30:53+00:00"
         },
         {
             "name": "symfony/finder",
@@ -421,12 +424,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "a6afaf6e1f37fbe87e5629d909b0f08e341c1605"
+                "reference": "851a8764b99bd4173b9992d09ab91050803f0385"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/symfony/finder/a6afaf6e1f37fbe87e5629d909b0f08e341c1605.zip",
-                "reference": "a6afaf6e1f37fbe87e5629d909b0f08e341c1605",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/851a8764b99bd4173b9992d09ab91050803f0385",
+                "reference": "851a8764b99bd4173b9992d09ab91050803f0385",
                 "shasum": ""
             },
             "require": {
@@ -462,7 +465,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-02-18 17:35:19"
+            "time": "2017-03-20 10:06:58"
         },
         {
             "name": "yiisoft/yii2",
@@ -470,12 +473,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "ac2930e4abeca2935ec44446bda859eb4ed391b7"
+                "reference": "ec2697bbdd0447a1b16be8e2c25f19a405e68d0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/yiisoft/yii2-framework/ac2930e4abeca2935ec44446bda859eb4ed391b7.zip",
-                "reference": "ac2930e4abeca2935ec44446bda859eb4ed391b7",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/ec2697bbdd0447a1b16be8e2c25f19a405e68d0d",
+                "reference": "ec2697bbdd0447a1b16be8e2c25f19a405e68d0d",
                 "shasum": ""
             },
             "require": {
@@ -562,7 +565,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2017-02-20 09:00:00"
+            "time": "2017-03-24 11:18:05"
         },
         {
             "name": "yiisoft/yii2-composer",
@@ -574,7 +577,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/yiisoft/yii2-composer/b2590a802a6f747a034893f8bfbeac57fc9ffa77.zip",
+                "url": "https://api.github.com/repos/yiisoft/yii2-composer/zipball/b2590a802a6f747a034893f8bfbeac57fc9ffa77",
                 "reference": "b2590a802a6f747a034893f8bfbeac57fc9ffa77",
                 "shasum": ""
             },
@@ -616,25 +619,25 @@
         },
         {
             "name": "zircote/swagger-php",
-            "version": "2.0.8",
+            "version": "2.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zircote/swagger-php.git",
-                "reference": "39f4c30692a4925597e7d4280fc58794fb4f3730"
+                "reference": "b0b136e3c51c8b05d78a0ea3f1b60cd331cc3544"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/zircote/swagger-php/39f4c30692a4925597e7d4280fc58794fb4f3730.zip",
-                "reference": "39f4c30692a4925597e7d4280fc58794fb4f3730",
+                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/b0b136e3c51c8b05d78a0ea3f1b60cd331cc3544",
+                "reference": "b0b136e3c51c8b05d78a0ea3f1b60cd331cc3544",
                 "shasum": ""
             },
             "require": {
                 "doctrine/annotations": "*",
-                "php": ">=5.4.0",
+                "php": ">=5.6",
                 "symfony/finder": "*"
             },
             "require-dev": {
-                "phpunit/phpunit": ">=4.8",
+                "phpunit/phpunit": ">=4.8 <=5.6",
                 "squizlabs/php_codesniffer": ">=2.7",
                 "zendframework/zend-form": "<2.8"
             },
@@ -674,7 +677,7 @@
                 "rest",
                 "service discovery"
             ],
-            "time": "2016-12-16T12:39:03+00:00"
+            "time": "2017-02-22T23:16:25+00:00"
         }
     ],
     "packages-dev": [],
