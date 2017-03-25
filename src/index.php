@@ -1,6 +1,6 @@
 <?php
 
-use light\swagger\SwaggerUIAsset;
+use delpfine\swagger\SwaggerUIAsset;
 
 SwaggerUIAsset::register($this);
 /** @var string $rest_url */

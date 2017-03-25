@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace light\swagger;
+namespace delpfine\swagger;
 
 use Yii;
 use yii\base\Action;
