@@ -11,7 +11,7 @@ SwaggerUIAsset::register($this);
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Swagger UI</title>
+    <title>Api documentation</title>
     <?php $this->head() ?>
     <script type="text/javascript">
         $(function () {
@@ -66,7 +66,7 @@ SwaggerUIAsset::register($this);
 
 <body class="swagger-section">
 <?php $this->beginBody() ?>
-<div id='header'>
+<!--<div id='header'>
     <div class="swagger-ui-wrap">
         <a id="logo" href="http://swagger.io"><span class="logo__title">swagger</span></a>
         <form id='api_selector'>
@@ -75,7 +75,7 @@ SwaggerUIAsset::register($this);
             <div class='input'><a id="explore" class="header__btn" href="#" data-sw-translate>Explore</a></div>
         </form>
     </div>
-</div>
+</div>-->
 
 <div id="message-bar" class="swagger-ui-wrap" data-sw-translate>&nbsp;</div>
 <div id="swagger-ui-container" class="swagger-ui-wrap"></div>
