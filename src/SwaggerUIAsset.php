@@ -48,10 +48,7 @@ class SwaggerUIAsset extends AssetBundle
             'css/reset.css',
             'media' => 'screen,print',
         ],
-        [
-            'css/print.css',
-            'media' => 'print',
-        ],
+
         [
             'css/screen.css',
             'media' => 'screen',
